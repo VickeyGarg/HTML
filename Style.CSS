@@ -4,9 +4,14 @@ body{
 h1{
     background-color: green;
 }
-.pappu{
+.trial1{
     background-color: blue;
+    color: rosybrown;
 }
-#kappu{
+#trial{
     background-color: bisque;
+    text-decoration: underline;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    word-spacing: 1cm;
+    letter-spacing: 1cm;
 }
