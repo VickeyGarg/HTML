@@ -1,0 +1,24 @@
+.main{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 3px solid red;
+    background-color: aqua;
+}
+.image{
+    display: flex;
+    justify-content: right;
+    height: 50px;
+    width: 50px;
+}
+.text{
+    /* display: flex; */
+    justify-content: center;
+    gap: 5px;
+    align-items: center;
+    
+}
+.download{
+    display: flex;
+    justify-content: right;
+}
